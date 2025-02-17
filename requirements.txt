@@ -1,0 +1,7 @@
+langchain 
+openai 
+transformers 
+torch 
+sentence_transformers 
+fastapi 
+uvicorn
